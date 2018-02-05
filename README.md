@@ -1,4 +1,4 @@
-Sokoban Solver
+Sudoku Solver
 ==============
 
 Forrest Knight
